@@ -1,0 +1,3 @@
+Usa las herramientas del servidor MCP memory.
+1) Crea entidades en la memoria para estructurar un curso corto de bases de datos: una entidad llamada "CursoBD" con relaciones hacia los módulos "SQL" y "NoSQL".
+2) Consulta la red de memoria creada y descríbeme brevemente cómo quedaron conectadas.

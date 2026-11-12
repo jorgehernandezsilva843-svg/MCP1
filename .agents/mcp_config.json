@@ -18,6 +18,15 @@
         "-y",
         "@playwright/mcp@latest"
       ]
+    },
+    "memory": {
+      "command": "cmd",
+      "args": [
+        "/c",
+        "npx",
+        "-y",
+        "@modelcontextprotocol/server-memory"
+      ]
     }
   }
 }
